@@ -1,12 +1,15 @@
 {
-  "name": "testreact-od1d2",
+  "name": "linkedtogithub-z9od9",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "ol": "6.1.1",
+    "openlayers": "4.6.5",
     "react": "16.12.0",
     "react-dom": "16.12.0",
+    "react-openlayers": "0.3.0",
     "react-scripts": "3.0.1"
   },
   "devDependencies": {
