@@ -5,6 +5,9 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "dns": "0.2.2",
+    "fetch-promise": "1.0.2",
+    "node-html-parser": "1.1.20",
     "ol": "6.1.1",
     "openlayers": "4.6.5",
     "react": "16.12.0",

@@ -15,6 +15,7 @@ import {
 } from "react-openlayers";
 
 import * as ol from "openlayers";
+// import test from "./test";
 
 export default function App() {
   var iconFeature = new ol.Feature(new ol.geom.Point(myMapCenter));
@@ -23,6 +24,8 @@ export default function App() {
   var marker = new custom.style.MarkerStyle(
     "https://openlayers.org/en/v4.0.1/examples/data/icon.png"
   );
+
+  // test();
 
   return (
     <div className="App">
